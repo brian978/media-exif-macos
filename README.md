@@ -1,0 +1,1 @@
+# media-exif-macos
